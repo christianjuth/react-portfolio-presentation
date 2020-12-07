@@ -25,6 +25,7 @@ function App() {
         <div className={styles.page}>
           <header className={styles.layout}>
             <img 
+              alt="Profile"
               className={styles.profilePicture}
               src='https://i.imgur.com/iHXeY1G.jpg'
             />
